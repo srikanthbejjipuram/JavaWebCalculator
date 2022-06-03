@@ -23,8 +23,8 @@
 </dependencies>
 <distributionManagement>
   <repository>
-    <id>maven-releases</id>
-        <url>http://54.201.212.93:8081/repository/maven-releases/</url>
+    <id>javawebappcal</id>
+        <url>http://54.201.212.93:8081/repository/javawebappcal/</url>
   </repository>
 </distributionManagement>
 </project>
